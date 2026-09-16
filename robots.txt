@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://toukir007vai-cmyk.github.io/sitemap.xml
